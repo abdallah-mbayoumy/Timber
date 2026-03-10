@@ -1,39 +1,3 @@
-User: api
-Bot: Sorry, I don't have an answer for that.
-----------------------------------------
-User: api
-Bot: Sorry, I don't have an answer for that.
-----------------------------------------
-User: api
-Bot: Thanks! I've learned something new.
-----------------------------------------
-User: Suggest movie
-Bot: - Rush (Rating: 8.1)
-- Pather Panchali (Rating: 8.4)
-- The Godfather: Part II (Rating: 9.0)
-----------------------------------------
-User: api
-Bot: zma
-----------------------------------------
-User: api
-Bot: zma
-----------------------------------------
-User: Api
-Bot: zma
-----------------------------------------
-User: Api search
-Bot: No results found.
-----------------------------------------
-User: aoi search
-Bot: No results found.
-----------------------------------------
-User: api search
-Bot: No results found.
-----------------------------------------
-User: selenium
-Bot: Selenium Error: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
-
-----------------------------------------
 User: news
 Bot: Latest News:
 - مباشر,الجيش الإسرائيلي يعلن "موجة" من الغارات على بيروت وإيران، وطهران تقول إنها استهدفت قواعد أمريكية في البحرين وكردستان العراق
@@ -62,10 +26,6 @@ Bot: Latest News:
 - بعد أن حولتها الفيضانات إلى "مدينة أشباح"، القصر الكبير تستقبل سكانها ومغاربة يوثّقون ميلاداً جديداً للمدينة
 - ماذا نعرف عن الجزر السرية التي تقف وراء الخلاف بين الولايات المتحدة والمملكة المتحدة؟
 ----------------------------------------
-User: fun fact
-Bot: Honey never spoils.
-----------------------------------------
-User: selenium
-Bot: Selenium Error: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
-
+User: api
+Bot: zma
 ----------------------------------------

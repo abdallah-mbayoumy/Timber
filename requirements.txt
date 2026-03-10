@@ -1,0 +1,8 @@
+pyttsx3
+pillow
+requests
+sympy
+beautifulsoup4
+selenium
+deep-translator
+SpeechRecognition
