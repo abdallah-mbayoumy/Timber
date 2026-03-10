@@ -1,0 +1,656 @@
+{
+    "questions": [
+        {
+            "question": "What is your name?",
+            "answer": "I'm Timber."
+        },
+        {
+            "question": "What is my name?",
+            "answer": "Nour or omar i guess.or actually, you are abdullah!"
+        },
+        {
+            "question": "hi",
+            "answer": "hello There! What can i do for you ? "
+        },
+        {
+            "question": "hello",
+            "answer": "hello There! What can i do for you ? "
+        },
+        {
+            "question": "What is your purpose?",
+            "answer": "I am here to assist you with your queries."
+        },
+        {
+            "question": "What is your favorite color?",
+            "answer": "I don't have personal preferences, but I like all colors!"
+        },
+        {
+            "question": "Tell me a joke.",
+            "answer": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+        },
+        {
+            "question": "What is the capital of France?",
+            "answer": "The capital of France is Paris."
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "answer": "The largest planet in our solar system is Jupiter."
+        },
+        {
+            "question": "What is the speed of light?",
+            "answer": "The speed of light is approximately 299,792 kilometers per second."
+        },
+        {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "answer": "'Romeo and Juliet' was written by William Shakespeare."
+        },
+        {
+            "question": "What is the boiling point of water?",
+            "answer": "The boiling point of water is 100 degrees Celsius at sea level."
+        },
+        {
+            "question": "What is the square root of 16?",
+            "answer": "The square root of 16 is 4."
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "answer": "The chemical symbol for gold is Au."
+        },
+        {
+            "question": "What is the largest mammal?",
+            "answer": "The largest mammal is the blue whale."
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "answer": "The smallest country in the world is Vatican City."
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "answer": "The main ingredient in guacamole is avocado."
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "answer": "The hardest natural substance on Earth is diamond."
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "answer": "The longest river in the world is the Nile River."
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "answer": "The currency of Japan is the yen."
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "answer": "The tallest mountain in the world is Mount Everest."
+        },
+        {
+            "question": "What is the main language spoken in Brazil?",
+            "answer": "The main language spoken in Brazil is Portuguese."
+        },
+        {
+            "question": "What is the fastest land animal?",
+            "answer": "The fastest land animal is the cheetah."
+        },
+        {
+            "question": "What is the primary ingredient in bread?",
+            "answer": "The primary ingredient in bread is flour."
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "answer": "The largest ocean on Earth is the Pacific Ocean."
+        },
+        {
+            "question": "What is the main gas found in the air we breathe?",
+            "answer": "The main gas found in the air we breathe is nitrogen."
+        },
+        {
+            "question": "What is the freezing point of water?",
+            "answer": "The freezing point of water is 0 degrees Celsius."
+        },
+        {
+            "question": "What is the primary function of red blood cells?",
+            "answer": "The primary function of red blood cells is to carry oxygen throughout the body."
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "answer": "The largest desert in the world is the Antarctic Desert."
+        },
+        {
+            "question": "What is the main ingredient in sushi?",
+            "answer": "The main ingredient in sushi is rice."
+        },
+        {
+            "question": "What is the chemical formula for water?",
+            "answer": "The chemical formula for water is H2O."
+        },
+        {
+            "question": "What is the most spoken language in the world?",
+            "answer": "The most spoken language in the world is Mandarin Chinese."
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "answer": "The capital of Italy is Rome."
+        },
+        {
+            "question": "What is the main ingredient in chocolate?",
+            "answer": "The main ingredient in chocolate is cocoa."
+        },
+        {
+            "question": "What is the largest continent?",
+            "answer": "The largest continent is Asia."
+        },
+        {
+            "question": "What is the main function of the brain?",
+            "answer": "The main function of the brain is to process information and control bodily functions."
+        },
+        {
+            "question": "What is the primary source of energy for the Earth?",
+            "answer": "The primary source of energy for the Earth is the sun."
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "answer": "The chemical symbol for silver is Ag."
+        },
+        {
+            "question": "What is the main ingredient in pizza?",
+            "answer": "The main ingredient in pizza is dough."
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "answer": "The capital of Canada is Ottawa."
+        },
+        {
+            "question": "What is the largest animal on land?",
+            "answer": "The largest animal on land is the African elephant."
+        },
+        {
+            "question": "What is the main ingredient in hummus?",
+            "answer": "The main ingredient in hummus is chickpeas."
+        },
+        {
+            "question": "What is the chemical formula for carbon dioxide?",
+            "answer": "The chemical formula for carbon dioxide is CO2."
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "answer": "The capital of Australia is Canberra."
+        },
+        {
+            "question": "What is the main ingredient in mayonnaise?",
+            "answer": "The main ingredient in mayonnaise is egg yolk."
+        },
+        {
+            "question": "What is the largest island in the world?",
+            "answer": "The largest island in the world is Greenland."
+        },
+        {
+            "question": "What is the primary function of the liver?",
+            "answer": "The primary function of the liver is to filter blood and produce bile."
+        },
+        {
+            "question": "What is the capital of Germany?",
+            "answer": "The capital of Germany is Berlin."
+        },
+        {
+            "question": "What is the main ingredient in pesto?",
+            "answer": "The main ingredient in pesto is basil."
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "answer": "The chemical symbol for iron is Fe."
+        },
+        {
+            "question": "What is the largest city in the world by population?",
+            "answer": "The largest city in the world by population is Tokyo."
+        },
+        {
+            "question": "What is the main ingredient in curry?",
+            "answer": "The main ingredient in curry is spices."
+        },
+        {
+            "question": "What is the capital of Spain?",
+            "answer": "The capital of Spain is Madrid."
+        },
+        {
+            "question": "What is the primary function of the kidneys?",
+            "answer": "The primary function of the kidneys is to filter waste from the blood."
+        },
+        {
+            "question": "What is the main ingredient in a Caesar salad?",
+            "answer": "The main ingredient in a Caesar salad is romaine lettuce."
+        },
+        {
+            "question": "What is the chemical formula for glucose?",
+            "answer": "The chemical formula for glucose is C6H12O6."
+        },
+        {
+            "question": "What is the capital of Russia?",
+            "answer": "The capital of Russia is Moscow."
+        },
+        {
+            "question": "What is the largest volcano in the world?",
+            "answer": "The largest volcano in the world is Mauna Loa in Hawaii."
+        },
+        {
+            "question": "What is the main ingredient in falafel?",
+            "answer": "The main ingredient in falafel is chickpeas."
+        },
+        {
+            "question": "What is the chemical symbol for potassium?",
+            "answer": "The chemical symbol for potassium is K."
+        },
+        {
+            "question": "What is the capital of India?",
+            "answer": "The capital of India is New Delhi."
+        },
+        {
+            "question": "What is the primary function of the stomach?",
+            "answer": "The primary function of the stomach is to digest food."
+        },
+        {
+            "question": "What is the main ingredient in a smoothie?",
+            "answer": "The main ingredient in a smoothie is fruit."
+        },
+        {
+            "question": "What is the chemical formula for table salt?",
+            "answer": "The chemical formula for table salt is NaCl."
+        },
+        {
+            "question": "What is the capital of China?",
+            "answer": "The capital of China is Beijing."
+        },
+        {
+            "question": "What is the largest lake in the world?",
+            "answer": "The largest lake in the world is the Caspian Sea."
+        },
+        {
+            "question": "What is the main ingredient in a burrito?",
+            "answer": "The main ingredient in a burrito is tortilla."
+        },
+        {
+            "question": "What is the chemical symbol for calcium?",
+            "answer": "The chemical symbol for calcium is Ca."
+        },
+        {
+            "question": "What is the capital of Egypt?",
+            "answer": "The capital of Egypt is Cairo."
+        },
+        {
+            "question": "What is the primary function of the lungs?",
+            "answer": "The primary function of the lungs is to exchange oxygen and carbon dioxide."
+        },
+        {
+            "question": "What is the main ingredient in a bagel?",
+            "answer": "The main ingredient in a bagel is dough."
+        },
+        {
+            "question": "What is the chemical formula for ammonia?",
+            "answer": "The chemical formula for ammonia is NH3."
+        },
+        {
+            "question": "What is the capital of Mexico?",
+            "answer": "The capital of Mexico is Mexico City."
+        },
+        {
+            "question": "What is the largest country in the world by land area?",
+            "answer": "The largest country in the world by land area is Russia."
+        },
+        {
+            "question": "What is the main ingredient in a quiche?",
+            "answer": "The main ingredient in a quiche is eggs."
+        },
+        {
+            "question": "What is the chemical symbol for mercury?",
+            "answer": "The chemical symbol for mercury is Hg."
+        },
+        {
+            "question": "What is the capital of South Africa?",
+            "answer": "The capital of South Africa is Pretoria."
+        },
+        {
+            "question": "What is the primary function of the skin?",
+            "answer": "The primary function of the skin is to protect the body."
+        },
+        {
+            "question": "What is the main ingredient in a taco?",
+            "answer": "The main ingredient in a taco is tortilla."
+        },
+        {
+            "question": "What is the chemical formula for sulfuric acid?",
+            "answer": "The chemical formula for sulfuric acid is H2SO4."
+        },
+        {
+            "question": "What is the capital of Argentina?",
+            "answer": "The capital of Argentina is Buenos Aires."
+        },
+        {
+            "question": "What is the largest rainforest in the world?",
+            "answer": "The largest rainforest in the world is the Amazon Rainforest."
+        },
+        {
+            "question": "What is the main ingredient in a cupcake?",
+            "answer": "The main ingredient in a cupcake is flour."
+        },
+        {
+            "question": "What is the chemical symbol for sodium?",
+            "answer": "The chemical symbol for sodium is Na."
+        },
+        {
+            "question": "What is the capital of Turkey?",
+            "answer": "The capital of Turkey is Ankara."
+        },
+        {
+            "question": "What is the primary function of the pancreas?",
+            "answer": "The primary function of the pancreas is to produce insulin."
+        },
+        {
+            "question": "What is the main ingredient in a brownie?",
+            "answer": "The main ingredient in a brownie is chocolate."
+        },
+        {
+            "question": "What is the chemical formula for ethanol?",
+            "answer": "The chemical formula for ethanol is C2H5OH."
+        },
+        {
+            "question": "What is the capital of Greece?",
+            "answer": "The capital of Greece is Athens."
+        },
+        {
+            "question": "What is the largest star in the universe?",
+            "answer": "The largest star in the universe is UY Scuti."
+        },
+        {
+            "question": "What is the main ingredient in a pancake?",
+            "answer": "The main ingredient in a pancake is flour."
+        },
+        {
+            "question": "What is the chemical symbol for zinc?",
+            "answer": "The chemical symbol for zinc is Zn."
+        },
+        {
+            "question": "What is the capital of Sweden?",
+            "answer": "The capital of Sweden is Stockholm."
+        },
+        {
+            "question": "What is the primary function of the spleen?",
+            "answer": "The primary function of the spleen is to filter blood and support immune function."
+        },
+        {
+            "question": "What is the main ingredient in a lasagna?",
+            "answer": "The main ingredient in a lasagna is pasta."
+        },
+        {
+            "question": "What is the chemical formula for methane?",
+            "answer": "The chemical formula for methane is CH4."
+        },
+        {
+            "question": "What is the capital of Portugal?",
+            "answer": "The capital of Portugal is Lisbon."
+        },
+        {
+            "question": "What is the largest fish in the ocean?",
+            "answer": "The largest fish in the ocean is the whale shark."
+        },
+        {
+            "question": "What is the main ingredient in a salad?",
+            "answer": "The main ingredient in a salad is lettuce."
+        },
+        {
+            "question": "What is the chemical symbol for nitrogen?",
+            "answer": "The chemical symbol for nitrogen is N."
+        },
+        {
+            "question": "What is the capital of Belgium?",
+            "answer": "The capital of Belgium is Brussels."
+        },
+        {
+            "question": "What is the primary function of the intestines?",
+            "answer": "The primary function of the intestines is to digest food and absorb nutrients."
+        },
+        {
+            "question": "What is the main ingredient in a cheeseburger?",
+            "answer": "The main ingredient in a cheeseburger is ground beef."
+        },
+        {
+            "question": "What is the chemical formula for hydrochloric acid?",
+            "answer": "The chemical formula for hydrochloric acid is HCl."
+        },
+        {
+            "question": "What is the capital of Switzerland?",
+            "answer": "The capital of Switzerland is Bern."
+        },
+        {
+            "question": "What is the largest land animal?",
+            "answer": "The largest land animal is the African elephant."
+        },
+        {
+            "question": "What is the main ingredient in a smoothie bowl?",
+            "answer": "The main ingredient in a smoothie bowl is blended fruit."
+        },
+        {
+            "question": "What is the chemical symbol for aluminum?",
+            "answer": "The chemical symbol for aluminum is Al."
+        },
+        {
+            "question": "What is the capital of Denmark?",
+            "answer": "The capital of Denmark is Copenhagen."
+        },
+        {
+            "question": "What is the primary function of the thyroid gland?",
+            "answer": "The primary function of the thyroid gland is to regulate metabolism."
+        },
+        {
+            "question": "What is the main ingredient in a fruit salad?",
+            "answer": "The main ingredient in a fruit salad is fruit."
+        },
+        {
+            "question": "What is the chemical formula for calcium carbonate?",
+            "answer": "The chemical formula for calcium carbonate is CaCO3."
+        },
+        {
+            "question": "What is the capital of Ireland?",
+            "answer": "The capital of Ireland is Dublin."
+        },
+        {
+            "question": "What is the largest bone in the human body?",
+            "answer": "The largest bone in the human body is the femur."
+        },
+        {
+            "question": "What is the main ingredient in a chocolate chip cookie?",
+            "answer": "The main ingredient in a chocolate chip cookie is flour."
+        },
+        {
+            "question": "What is the chemical symbol for phosphorus?",
+            "answer": "The chemical symbol for phosphorus is P."
+        },
+        {
+            "question": "What is the capital of Austria?",
+            "answer": "The capital of Austria is Vienna."
+        },
+        {
+            "question": "What is the primary function of the gallbladder?",
+            "answer": "The primary function of the gallbladder is to store bile."
+        },
+        {
+            "question": "What is the main ingredient in a scone?",
+            "answer": "The main ingredient in a scone is flour."
+        },
+        {
+            "question": "What is the chemical formula for acetic acid?",
+            "answer": "The chemical formula for acetic acid is CH3COOH."
+        },
+        {
+            "question": "What is the capital of Norway?",
+            "answer": "The capital of Norway is Oslo."
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "answer": "The largest organ in the human body is the skin."
+        },
+        {
+            "question": "What is the main ingredient in a meringue?",
+            "answer": "The main ingredient in a meringue is egg whites."
+        },
+        {
+            "question": "What is the chemical symbol for chlorine?",
+            "answer": "The chemical symbol for chlorine is Cl."
+        },
+        {
+            "question": "What is the capital of Finland?",
+            "answer": "The capital of Finland is Helsinki."
+        },
+        {
+            "question": "What is the primary function of the gallbladder?",
+            "answer": "The primary function of the gallbladder is to store bile."
+        },
+        {
+            "question": "What is the main ingredient in a souffl\u00c3\u00a9?",
+            "answer": "The main ingredient in a souffl\u00c3\u00a9 is egg whites."
+        },
+        {
+            "question": "What is the chemical formula for phosphoric acid?",
+            "answer": "The chemical formula for phosphoric acid is H3PO4."
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "hey ",
+            "answer": "Hey buddy, Need an assitance?"
+        },
+        {
+            "question": "i love python",
+            "answer": "I love it too, it is one of the easiest languages in the field of programming"
+        },
+        {
+            "question": "how are you ",
+            "answer": "Iam fine, and you?"
+        },
+        {
+            "question": "heu",
+            "answer": "skpi"
+        },
+        {
+            "question": "totally good",
+            "answer": "skio"
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "thank you timber",
+            "answer": "Your welcome, if you need more help, iam availble at any time"
+        },
+        {
+            "question": "whre do you live",
+            "answer": ""
+        },
+        {
+            "question": "is this good?",
+            "answer": "Yes "
+        },
+        {
+            "question": "flip coin",
+            "answer": "ketaba"
+        },
+        {
+            "question": "\u0647\u0627\u064a",
+            "answer": "\u0627\u0632\u064a\u0643 \u064a\u0627 \u0642\u0644\u0628\u064a"
+        },
+        {
+            "question": "bye",
+            "answer": "bye!"
+        },
+        {
+            "question": "jdpojdpwjdjosso",
+            "answer": "?"
+        },
+        {
+            "question": "?????????",
+            "answer": "????????"
+        },
+        {
+            "question": "my name is kerlous",
+            "answer": "Hi kerolous"
+        },
+        {
+            "question": "describe shash",
+            "answer": "shash is a sigma"
+        },
+        {
+            "question": "selenuim",
+            "answer": "Mohamed elaskily"
+        },
+        {
+            "question": ".",
+            "answer": "?"
+        },
+        {
+            "question": "mohamed elaskliy",
+            "answer": "Cant provide a clear answer"
+        },
+        {
+            "question": "api",
+            "answer": "zma"
+        }
+    ]
+}
